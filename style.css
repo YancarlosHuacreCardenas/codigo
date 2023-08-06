@@ -1,0 +1,147 @@
+.contenedor {
+
+    display: flex;
+}
+
+.imagen1 {
+    width: 180px;
+    margin-left: 20px;
+    float: right;
+
+}
+
+.logo {
+
+    margin-left: 250px;
+    margin-top: 2220px;
+}
+
+.boton1 {
+
+    display: flex;
+    width: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 20px 20px;
+    color: black;
+    text-decoration: none;
+    opacity: 0.9;
+    position: relative;
+    right: 350px;
+
+}
+
+.rectangulo {
+
+    width: 1050px;
+    height: 1300px;
+    justify-items: center;
+    background-color: rgb(252, 252, 252);
+    border: 3px solid black;
+
+
+}
+
+.rectangulo2 {
+
+    width: 1050px;
+    height: 1550px;
+    justify-items: center;
+    background-color: rgb(252, 252, 252);
+    border: 3px solid black;
+
+
+}
+
+.txt2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-items: column;
+    align-items: right;
+    position: relative;
+    right: 2000;
+    font-size: 32px;    
+}
+
+
+
+.txt4 {
+
+    display: flex;
+    flex-direction: column;
+    justify-items: column;
+    align-items: right;
+    position: relative;
+    font-size: 32px;
+}
+
+.txt5 {
+
+    display: flex;
+    position: relative;
+    font-size: 17px;
+
+}
+
+.txt10 {
+
+    font-size: 17px;
+}
+.txt11 {
+
+    color: blue;
+    font-family: Arial;
+
+}
+
+.a{
+    
+    font-size: 17px;
+}
+.b {
+
+    display: flex;
+    width: 83px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 20px 20px;
+    color: black;
+    text-decoration: none;
+    opacity: 0.9;
+    position: relative;
+    right: 340px;
+
+}
+
+.k {
+    position: relative;
+    right: 370px;
+    text-decoration: none;
+    color: blue;
+    font-family: Arial;
+    font-size: 27px;
+
+}
+
+.s {
+
+    display: center;
+    width: 83px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 20px 20px;
+}
+
+.x {
+    font-size: 17px;
+}
